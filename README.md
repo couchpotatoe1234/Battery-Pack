@@ -1,2 +1,2 @@
 # Battery-Pack
-A slim, custom, and cheap battery pack.
+A slim, custom, and cheap battery pack that I designed for iPhones. It is composed of only 3 electronic parts, a boost converter to handle charging and discharging, a 3.7v LiPo battery with 4000 mAh of power, and a wireless charging transmitter to be able to wirelessly charge a phone. There is also a magnetic sticker ring that will be attatched to the case to make it be able to connect to the MagSafe of the phone for easier charging. The end cost is around $25, but with AliExpress' "sales" its closer to $18.![alt text](image.png)
